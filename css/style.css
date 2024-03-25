@@ -1,0 +1,262 @@
+body {
+  background-image: url("../img/flashingstars.gif");
+  background-repeat: repeat;
+  padding: 20px;
+  height: 91.4375rem;
+  border-radius: 10px;
+  border-style: groove;
+  border-image: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red) 30;
+
+audio {
+  display: none;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: "Comic Sans MS", cursive;
+  font-size: 5.5vw;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+  line-height: 2rem;
+  transform: rotate(-1.555deg);
+  flex-shrink: 0;
+}
+
+h2 {
+  color: #000;
+  line-height: 30px;
+  text-align: center;
+  -webkit-text-stroke-width: 7;
+  -webkit-text-stroke-color: #fff;
+  font-family: "Comic Sans MS", cursive;
+  background: linear-gradient(
+    90deg,
+    #ff0303 0%,
+    #f90 27.5%,
+    #6fa900 51.5%,
+    #09a6ff 76%,
+    #8411dd 99.5%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 6rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  transform: rotate(-1.555deg);
+  flex-shrink: 0;
+  filter: drop-shadow(5px 0 0.25rem black);
+}
+
+#welcome {
+  position: absolute;
+  left: 3%;
+  top: 10%;
+  width: 10vw;
+  height: auto;
+  max-width:100%
+}
+
+#disco1 {
+  position: absolute;
+  left: 25%;
+  top: 1%;
+  width: 8vw;
+  height: auto;
+  max-width:100%
+}
+
+#disco2 {
+  position: absolute;
+  left: 70%;
+  top: 1%;
+  width: 7vw;
+  height: auto;
+  max-width:100%
+}
+
+#torch1 {
+  position: absolute;
+  left: 15%;
+  top: 0%;
+  width: 7vw;
+  height: auto;
+  max-width:100%
+  transform: rotate(9.499deg);
+}
+
+#torch2 {
+  position: absolute;
+  left: 80%;
+  top: 6%;
+  width: 7vw;
+  height: auto;
+  max-width:100%
+}
+
+#wizard {
+  position: absolute;
+  left: 86%;
+  top: 3%;
+  width: 12vw;
+  height: auto;
+  max-width:100%
+}
+
+#typewizard {
+  position: absolute;
+  left: 10%;
+  top: 25%;
+  width: 15vw;
+  height: auto;
+  max-width:100%
+}
+
+#ufo {
+  position: absolute;
+  left: 28%;
+  top: 35%;
+  width: 15vw;
+  height: auto;
+  max-width:100%
+}
+
+#jukebox {
+  position: absolute;
+  left: 43%;
+  top: 33%;
+  width: 14vw;
+  height: auto;
+  max-width:100%
+}
+
+#worm {
+  position: absolute;
+  left: 54%;
+  top: 26%;
+  width: 15vw;
+  height: auto;
+  max-width:100%
+}
+
+#shark {
+  position: absolute;
+  left: 69%;
+  top: 26%;
+  width: 13vw;
+  height: auto;
+  max-width:100%
+}
+
+#catwalking {
+  position: absolute;
+  left: 84%;
+  top: 33%;
+  width: 12vw;
+  height: auto;
+  max-width:100%
+}
+
+.nyan {  
+  position: absolute;
+  margin: auto;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: auto;
+  max-width:100%
+}
+
+#bestviewed {
+  position: absolute;
+  left: 32%;
+  top: 50%;
+  width: 10vw;
+  height: auto;
+  max-width:100%
+}
+
+#penguin {
+  position: absolute;
+  left: 87%;
+  top: 45%;
+  width: 7vw;
+  height: auto;
+  max-width:100%
+}
+
+#skull {
+  position: absolute;
+  left: 78%;
+  top: 38%;
+  width: 10vw;
+  height: auto;
+  max-width:100%
+}
+
+#rainbowcat {
+  position: absolute;
+  left: 90%;
+  top: 55%;
+  width: 7vw;
+  height: auto;
+  max-width:100%
+}
+
+#onlinefriends {
+  position: absolute;
+  left: 56%;
+  top: 48%;
+  width: 20vw;
+  height: auto;
+  max-width:100%
+}
+
+#alienbanner {
+  position: absolute;
+  left: 67%;
+  top: 55%;
+  width: 20vw;
+  height: auto;
+  max-width:100%
+}
+
+#myblog {
+  position: absolute;
+  left: 68%;
+  top: 42%;
+  width: 10vw;
+  height: auto;
+  max-width:100%
+}
+
+#breakdance {
+  position: absolute;
+  left: 10%;
+  top: 67%;
+  width: 10vw;
+  height: auto;
+  max-width:100%
+}
+
+#minecraft {
+  position: absolute;
+  left: 24%;
+  top: 58%;
+  width: 5vw;
+  height: auto;
+  max-width:100%
+}
+
+#purrloin {
+  position: absolute;
+  left: 18%;
+  top: 29%;
+  width: 20vw;
+  height: auto;
+  max-width:100%
+}
