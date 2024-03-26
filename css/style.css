@@ -2,7 +2,7 @@ body {
   background-image: url("../img/flashingstars.gif");
   background-repeat: repeat;
   padding: 20px;
-  height: 91.4375rem;
+  height: 60.4375rem;
   border-radius: 10px;
   border-style: groove;
   border-image: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red) 30;
@@ -236,8 +236,8 @@ h2 {
 
 #breakdance {
   position: absolute;
-  left: 10%;
-  top: 67%;
+  left: 12%;
+  top: 65%;
   width: 10vw;
   height: auto;
   max-width:100%
@@ -257,6 +257,222 @@ h2 {
   left: 18%;
   top: 29%;
   width: 20vw;
+  height: auto;
+  max-width:100%
+}
+
+#pickaxe {
+  position: absolute;
+  left: 4%;
+  top: 30%;
+  width: 7vw;
+  height: auto;
+  max-width:100%
+}
+
+#watergirl {
+  position: absolute;
+  left: 4%;
+  top: 45%;
+  width: 4vw;
+  height: auto;
+  max-width:100%
+}
+
+#badicecream {
+  position: absolute;
+  left: 2%;
+  top: 63%;
+  width: 8vw;
+  height: auto;
+  max-width:100%
+}
+
+#lavalamp {
+  position: absolute;
+  left: 2%;
+  top: 80%;
+  width: 7vw;
+  height: auto;
+  max-width:100%
+}
+
+#charmander {
+  position: absolute;
+  left: 8%;
+  top: 78%;
+  width: 9vw;
+  height: auto;
+  max-width:100%
+}
+
+#dogback {
+  position: absolute;
+  left: 16%;
+  top: 78%;
+  width: 9vw;
+  height: auto;
+  max-width:100%
+}
+
+#threeds {
+  position: absolute;
+  left: 24%;
+  top: 69%;
+  width: 15vw;
+  height: auto;
+  max-width:100%
+}
+
+#graphicdesign {
+  position: absolute;
+  left: 10%;
+  top: 95%;
+  width: 10vw;
+  height: auto;
+  max-width:100%
+}
+
+#werewolves {
+  position: absolute;
+  left: 12%;
+  top: 103%;
+  width: 9vw;
+  height: auto;
+  max-width:100%
+}
+
+#wtnv {
+  position: absolute;
+  left: 24%;
+  top: 95%;
+  width: 10vw;
+  height: auto;
+  max-width:100%
+}
+
+#ds {
+  position: absolute;
+  left: 33%;
+  top: 58%;
+  width: 9vw;
+  height: auto;
+  max-width:100%
+}
+
+#spiritphone {
+  position: absolute;
+  left: 45%;
+  top: 58%;
+  width: 9vw;
+  height: auto;
+  max-width:100%
+}
+
+#rubix {
+  position: absolute;
+  left: 60%;
+  top: 62%;
+  width: 20vw;
+  height: auto;
+  max-width:100%
+}
+
+#cats {
+  position: absolute;
+ left: 66%;
+  top: 69%;
+  width: 20vw;
+  height: auto;
+  max-width:100%
+}
+
+#deadlylazer {
+  position: absolute;
+  left: 63%;
+  top: 78%;
+  width: 9vw;
+  height: auto;
+  max-width:100%
+}
+
+#gooserun {
+  position: absolute;
+  left: 73%;
+  top: 70%;
+  width: 10vw;
+  height: auto;
+  max-width:100%
+}
+
+#mew {
+  position: absolute;
+  left: 73%;
+  top: 87%;
+  width: 10vw;
+  height: auto;
+  max-width:100%
+}
+
+#meowth {
+  position: absolute;
+  left: 34%;
+  top: 90%;
+  width: 15vw;
+  height: auto;
+  max-width:100%
+}
+
+#sidecat {
+  position: absolute;
+  left: 85%;
+  top: 78%;
+  width: 15vw;
+  height: auto;
+  max-width:100%
+}
+
+#groovy {
+  position: absolute;
+  left: 50%;
+  top: 93%;
+  width: 20vw;
+  height: auto;
+  max-width:100%
+}
+
+#alligator {
+  position: absolute;
+  left: 50%;
+  top: 99%;
+  width: 20vw;
+  height: auto;
+  max-width:100%
+}
+
+#hosting {
+  position: absolute;
+  left: 50%;
+  top: 105%;
+  width: 20vw;
+  height: auto;
+  max-width:100%
+}
+
+#sims {
+  position: absolute;
+  left: 72%;
+  top: 105%;
+  width: 20vw;
+  height: auto;
+  max-width:100%
+}
+
+#construction {
+  position: absolute;
+  left: 20%;
+  top: 115%;
+  width: 60vw;
   height: auto;
   max-width:100%
 }
